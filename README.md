@@ -1,2 +1,4 @@
 # random-binary-code
-A randomiser that gives you random binary code
+Ein kleiner randomizer der random Binär code ausgibt.
+
+Der Code wird dann in der binary.txt gespeichert.
